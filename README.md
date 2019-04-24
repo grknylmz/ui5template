@@ -1,3 +1,15 @@
+## Under Templates folder you can find the examples for classess
+
+```
+ClassTemplate.js
+StaticMethods.js
+
+```
+
+
+
+
+
 ## At root folder run npm init
 
 
