@@ -4,9 +4,9 @@
   "description": "",
   "main": "../webapp/index.html",
   "scripts": {
-    "start": "browser-sync start -s \"webapp/\" -f . --no-notify --host localhost --port 9000",
+    "dev": "browser-sync start -s \"webapp/\" -f . --no-notify --host localhost --port 9000",
     "prod": "browser-sync start -s \"dist/\" -f . --no-notify --host localhost --port 9000",
-    "build": "grunt"
+    "build": "ui5 build"
   },
   "author": "",
   "license": "ISC",
