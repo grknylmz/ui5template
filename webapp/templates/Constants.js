@@ -1,8 +1,6 @@
 sap.ui.define([], function() {
-  "use strict";
-  return Object.freeze({
-    Entity: {
-      MATERIAL_SET: "/MaterialSet"
-    }
-  });
+	"use strict";
+	return Object.freeze({
+		MATERIAL_SET: "/MaterialSet"
+	});
 });
