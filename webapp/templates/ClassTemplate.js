@@ -1,6 +1,3 @@
-// declare the module (also ensures existance of ui5test.templates)
-jQuery.sap.declare("ui5test.ui5test.templates.ClassTemplate");
-
 // declare and document the constructor function
 sap.ui.base.Object.extend(
   "ui5test.ui5test.templates.ClassTemplate",
